@@ -1,0 +1,29 @@
+Summary for /www/javadecompilers/app/public/data/31.10.17/04571af2b096e615ad25942e4de912af/tci.jar
+Decompiled with CFR 0_123
+
+
+com.commoninf.DataModel
+----------------------------
+
+processDataModel()
+  Unable to fully structure code
+genScripts()
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.commoninf.TestCaseInserter
+----------------------------
+
+processArgs(java.lang.String[] )
+  Unable to fully structure code
+
+
+com.commoninf.TestData
+----------------------------
+
+processTestData(java.util.List<java.lang.String> )
+  Unable to fully structure code
+readDataFromFile(java.lang.String )
+  Unable to fully structure code
+insertOneFileIntoDbs(com.commoninf.Database[] java.sql.Connection[] )
+  Unable to fully structure code

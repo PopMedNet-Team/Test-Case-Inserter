@@ -1,4 +1,9 @@
-# Test-Case-Inserter
+# Test-Case-Inserter (TCI)
+The TCI tool:
+- Generates databases according to data set specifications
+- Custom program that enables users to easily insert synthetic data into a relational database management system (RDBMS) without requiring the user to have SQL programming skills
+
+
 
 Check out: https://popmednet.atlassian.net/wiki/display/TESTS/Copy+of+SQL+Test+Case+Inserter for more information about the test case inserter
 

@@ -1,4 +1,5 @@
 [![Unmaintained Project](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+Please note that this project is no longer maintained.
 
 # Test-Case-Inserter (TCI)
 The TCI tool:
